@@ -1,6 +1,6 @@
 Pavyzdinis šablonas aprašant git repozitoriją. Visi studentai privalo aprašyti vadovaujantis žemiau pateiktu pavyzdžiu.<br/>
-Marius Gžegoževkis, PI20A<br/>
-Nuotykių žaidimas "PAVADINIMAS"<br/>
+**Marius Gžegoževkis, PI20A<br/>
+Nuotykių žaidimas "PAVADINIMAS"<br/>**
 Žaidimo taisyklės ir detalus aprašas:
   - Žaidėjas žaidžia kaip kapitonas, kuriam reikia sugalvoti vardą.
   - Žaidimo tikslas - surinkti 5 relikvijas, tada žaidimas bus laimėtas.
